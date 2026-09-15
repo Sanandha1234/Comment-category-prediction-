@@ -107,12 +107,21 @@ Hyperparameter tuning was also performed.
 
 ## Model Performance
 
-| Model | Accuracy | F1 Score |
+| Model | Accuracy | Macro-F1 |
 |---|---:|---:|
 | LinearSVC | 78.79% | 78.31% |
 | Logistic Regression | 82.55% | 78.56% |
 | **LightGBM** | **84.67%** | **82.21%** |
 
+### Best Model
+
+**LightGBM**
+
+- Validation Accuracy: **84.67%**
+- Validation Macro-F1: **82.21%**
+
+LightGBM achieved the best validation performance among the evaluated
+models.
 ### Best Model
 
 **LightGBM**
