@@ -4,6 +4,12 @@ An NLP-based multi-class classification project for predicting the category
 assigned to user-generated comments using text, engagement signals, and
 additional metadata.
 
+## Project Links
+
+- **GitHub:** [Source code and project files](https://github.com/Sanandha1234/Comment-category-prediction)
+- **Streamlit Demo:** [Try the deployed app](https://cdax5drf3njr8ag9ye4raq.streamlit.app/)
+- **Kaggle Notebook:** [View notebook](https://www.kaggle.com/code/psanandha/24f2008134-notebook-t12026) *(private; access may be restricted)*
+
 ## Overview
 
 This project was developed as part of the **Comment Category Prediction
@@ -86,12 +92,8 @@ including:
 
 TF-IDF was used to transform the comment text into numerical features.
 
-Both:
-
-- Word-level TF-IDF
-- Character-level TF-IDF
-
-were explored to capture different textual patterns.
+Both word-level and character-level TF-IDF were explored to capture
+different textual patterns.
 
 ### 5. Machine Learning Models
 
