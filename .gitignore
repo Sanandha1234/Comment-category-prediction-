@@ -14,9 +14,6 @@ env/
 *.csv
 *.zip
 
-# Model files
-*.pkl
-*.joblib
 
 # OS files
 .DS_Store

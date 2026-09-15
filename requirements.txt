@@ -1,8 +1,6 @@
+streamlit
 pandas
 numpy
 scipy
-scikit-learn
+scikit-learn==1.6.1
 lightgbm
-matplotlib
-seaborn
-jupyter
